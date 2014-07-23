@@ -14,3 +14,6 @@
 
 ## Students
 
+Francine Campagnari
+
+I expect to learn how to analyze my sequencing data 
